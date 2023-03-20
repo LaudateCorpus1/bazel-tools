@@ -56,7 +56,7 @@ def go_revive_dependencies():
     maybe(
         go_repository,
         name = "com_github_olekukonko_tablewriter",
-        commit = "be2c049b30cc",
+        commit = "74c60be0ef6886d331ebc3c91b2ac0a7971715b6",
         importpath = "github.com/olekukonko/tablewriter",
     )
 
