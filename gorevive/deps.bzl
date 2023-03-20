@@ -49,7 +49,7 @@ def go_revive_dependencies():
     maybe(
         go_repository,
         name = "com_github_mgechev_dots",
-        commit = "8e09d8ea2757",
+        commit = "e955255bf51709c96049fd17a712991643566bc1",
         importpath = "github.com/mgechev/dots",
     )
 
