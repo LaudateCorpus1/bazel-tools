@@ -12,7 +12,7 @@ def rjsone_dependencies():
     maybe(
         go_repository,
         name = "com_github_taskcluster_json_e",
-        commit = "5f1fefda8b07ed0016c98f77cd4640ec8a920201",
+        commit = "c491c8933054421bddd4fec80b5851f89a63d2d2",
         importpath = "github.com/taskcluster/json-e",
     )
 
