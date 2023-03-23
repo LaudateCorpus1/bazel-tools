@@ -26,7 +26,7 @@ def rjsone_dependencies():
     maybe(
         go_repository,
         name = "com_github_imdario_mergo",
-        commit = "9316a62528ac99aaecb4e47eadd6dc8aa6533d58",
+        commit = "62d1cf2897a56f38e423e6020a5530894aa5fdbe",
         importpath = "github.com/imdario/mergo",
     )
 
