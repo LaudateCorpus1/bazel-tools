@@ -5,7 +5,7 @@ def rjsone_dependencies():
     maybe(
         go_repository,
         name = "com_github_wryun_rjsone",
-        commit = "a871600de5f3b73007fd8c92e084768b92668877",
+        commit = "9782445e0e49353288c449f5bc78cf6e82ec3e31",
         importpath = "github.com/wryun/rjsone",
     )
 
