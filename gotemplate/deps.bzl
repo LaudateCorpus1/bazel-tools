@@ -5,7 +5,7 @@ def gotemplate_dependencies():
     maybe(
         go_repository,
         name = "com_github_ghodss_yaml",
-        commit = "c7ce16629ff4cd059ed96ed06419dd3856fd3577",
+        commit = "0ca9ea5df5451ffdf184b4428c902747c2c11cd7",
         importpath = "github.com/ghodss/yaml",
     )
 
